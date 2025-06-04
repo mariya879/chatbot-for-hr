@@ -1,0 +1,125 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "skills": ["Python", "React", "AWS"],
+        "experience_years": 5,
+        "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+        "availability": "available"
+      },
+      {
+        "id": 2,
+        "name": "Michael Rodriguez",
+        "skills": ["Java", "Spring", "Docker"],
+        "experience_years": 6,
+        "projects": ["Banking System", "Fraud Detection"],
+        "availability": "available"
+      },
+      {
+        "id": 3,
+        "name": "Sarah Chen",
+        "skills": ["TensorFlow", "PyTorch", "Machine Learning"],
+        "experience_years": 6,
+        "projects": ["Medical Diagnosis Platform", "X-ray Analysis"],
+        "availability": "available"
+      },
+      {
+        "id": 4,
+        "name": "David Kim",
+        "skills": ["Node.js", "React Native", "MongoDB"],
+        "experience_years": 4,
+        "projects": ["Mobile Shopping App", "Event Planner"],
+        "availability": "unavailable"
+      },
+      {
+        "id": 5,
+        "name": "Priya Singh",
+        "skills": ["AWS", "Kubernetes", "Docker"],
+        "experience_years": 5,
+        "projects": ["Cloud Migration", "Microservices Refactoring"],
+        "availability": "available"
+      },
+      {
+        "id": 6,
+        "name": "John O'Malley",
+        "skills": ["C++", "Linux", "Networking"],
+        "experience_years": 8,
+        "projects": ["Router Firmware", "5G Core Network"],
+        "availability": "unavailable"
+      },
+      {
+        "id": 7,
+        "name": "Leila Farah",
+        "skills": ["Python", "Data Analysis", "Pandas"],
+        "experience_years": 3,
+        "projects": ["Sales Analytics", "Customer Insights"],
+        "availability": "available"
+      },
+      {
+        "id": 8,
+        "name": "Tom Nguyen",
+        "skills": ["GCP", "Terraform", "DevOps"],
+        "experience_years": 4,
+        "projects": ["CI/CD Automation", "Infrastructure as Code"],
+        "availability": "available"
+      },
+      {
+        "id": 9,
+        "name": "Emily Rivera",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "experience_years": 2,
+        "projects": ["Portfolio Website", "Landing Pages"],
+        "availability": "available"
+      },
+      {
+        "id": 10,
+        "name": "Carlos Martinez",
+        "skills": ["Python", "Machine Learning", "Healthcare"],
+        "experience_years": 4,
+        "projects": ["Patient Risk Prediction System"],
+        "availability": "available"
+      },
+      {
+        "id": 11,
+        "name": "Fatima Ali",
+        "skills": ["Ruby on Rails", "PostgreSQL"],
+        "experience_years": 5,
+        "projects": ["Billing Portal", "Inventory Tracker"],
+        "availability": "unavailable"
+      },
+      {
+        "id": 12,
+        "name": "Nathan Lee",
+        "skills": ["JavaScript", "Vue.js", "Firebase"],
+        "experience_years": 3,
+        "projects": ["Chat Application", "Realtime Dashboard"],
+        "availability": "available"
+      },
+      {
+        "id": 13,
+        "name": "Hiroshi Tanaka",
+        "skills": ["Go", "Kubernetes", "gRPC"],
+        "experience_years": 6,
+        "projects": ["Distributed Logging System", "Payment Gateway"],
+        "availability": "available"
+      },
+      {
+        "id": 14,
+        "name": "Olga Petrova",
+        "skills": ["React", "TypeScript", "Redux"],
+        "experience_years": 4,
+        "projects": ["Admin Dashboard", "E-learning Platform"],
+        "availability": "unavailable"
+      },
+      {
+        "id": 15,
+        "name": "Isaac Brown",
+        "skills": ["Swift", "iOS Development", "CoreData"],
+        "experience_years": 5,
+        "projects": ["Health Tracker App", "Recipe Sharing App"],
+        "availability": "available"
+      }
+    ]
+  }
+  
